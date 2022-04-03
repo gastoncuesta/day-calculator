@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="day-calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/day_calculator_jar</output-path>
+    <root id="archive" name="day-calculator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
